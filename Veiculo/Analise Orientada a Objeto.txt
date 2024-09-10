@@ -1,0 +1,10 @@
+Atributos:
+Ano de fabricação,
+Quilômetros rodados,
+Numero da chassi, 
+Numero de acentos
+
+Métodos:
+Acelerar,
+Frear
+

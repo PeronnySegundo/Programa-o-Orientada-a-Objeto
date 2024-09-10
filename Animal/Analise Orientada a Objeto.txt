@@ -1,0 +1,9 @@
+Atributos
+Raça,
+Cor da pelagem,
+Quantidade de patas, 
+Vertebrado
+
+Métodos
+Caçar,
+Beber água

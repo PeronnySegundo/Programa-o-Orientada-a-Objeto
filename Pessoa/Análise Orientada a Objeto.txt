@@ -1,0 +1,10 @@
+Atributos:
+Nome,
+País de nascimento,
+Idade, 
+Estado civil,
+Saldo da conta bancaria
+
+Métodos:
+Falar,
+Dormir
